@@ -1,4 +1,4 @@
-n=int(input('Introduceti numarul de linii a matricei patratice: '))
+n=int(input('Introduceti n (2<=n<=10): '))
 print('Introduceti elementele matricei:')
 Matrice=[]
 for i in range(n):
